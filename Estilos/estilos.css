@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: aliceblue;
+}
+
+html, body, .cover{
+    height: 100%;
+    
+    
+    
+}
+.cover{
+    
+    background: url("https://previews.123rf.com/images/monsitj/monsitj1705/monsitj170500071/78685147-n%C3%BAmero-de-c%C3%B3digo-digital-extracto-fondo-representan-la-tecnolog%C3%ADa-de-codificaci%C3%B3n-y-lenguajes-de-programaci%C3%B3n-.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: CENTER;
+    position: relative;
+    
+    
+    
+    
+    
+}
+.cabecera{
+    background:none;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+}
+.logo{
+    padding: 20px;
+    float: left;
+    
+}
+.iniciar{
+    padding: 5PX;
+    float: right;
+    
+}
+.iniciar span{
+    background-color: red;
+    padding: 10px;
+    margin: 10px;
+
+}
+.presentacion{
+    text-align: center;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.presentacion input{
+    padding: 10px;
+}
+.presentacion span{
+    margin: 15px;
+    background: red;
+    
+    padding: 10px;
+}
+.presentacion h1{
+    
+    font-size: 4rem;
+   
+}
+.presentacion h2{
+    font-size:1.689;
+    
+}
+
+
